@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Common</string>
+
+    <string name="redirect_title">Leave App to visit</string>
+    <string name="redirect_ok">OK</string>
+    <string name="redirect_cancel">Cancel</string>
+
 </resources>
