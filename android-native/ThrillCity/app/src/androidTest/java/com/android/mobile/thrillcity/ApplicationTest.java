@@ -1,4 +1,4 @@
-package thrillcity.com.thrillcity;
+package com.android.mobile.thrillcity;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
